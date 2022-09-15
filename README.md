@@ -1,4 +1,4 @@
-### Hi there, I'm [Artem P](https://artemkms.github.io) 👋
+### Hi there, I'm [Artem](https://artemkms.github.io) 👋
 
 #### Mainstream technology stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
